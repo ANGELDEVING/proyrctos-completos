@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ANGEL VALENCIA.M\Downloads\Ejercicios y actividades\unidad 4\.metadata\.plugins\org.eclipse.jdt.core
+301305106.index
+1865797976.index
+2878985235.index
